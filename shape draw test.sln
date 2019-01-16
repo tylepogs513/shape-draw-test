@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shape draw test", "shape draw test\shape draw test.csproj", "{181CDFE8-AF6D-4D01-AE13-3FD3EF45292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181CDFE8-AF6D-4D01-AE13-3FD3EF45292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181CDFE8-AF6D-4D01-AE13-3FD3EF45292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181CDFE8-AF6D-4D01-AE13-3FD3EF45292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181CDFE8-AF6D-4D01-AE13-3FD3EF45292D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD362721-B803-4D7B-A339-732745B1F8B7}
+	EndGlobalSection
+EndGlobal
